@@ -8,7 +8,7 @@
 This repository contains an end-to-end Data Engineering portfolio utilizing **DuckDB** and **MotherDuck**. It demonstrates the complete lifecycle of analytical data engineering—from **Exploratory Data Analysis (EDA)** on tech job market datasets to building an automated **Data Warehouse (DW) & Analytical Data Marts** pipeline.
 
 ## 🛠️ Tech Stack & Tools
-* **Databases & OLAP Engines:** DuckDB, MotherDuck (Cloud OLAP), PostgreSQL
+* **Databases & OLAP Engines:** DuckDB, MotherDuck (Cloud OLAP), SQL
 * **Development Environment:** VS Code, Git/GitHub, PowerShell CLI
 * **Core Competencies:** Dimensional Data Modeling (Star Schema & Data Marts), ELT Pipeline Orchestration, Idempotent DDL/DML Scripting, Analytical Querying
 
